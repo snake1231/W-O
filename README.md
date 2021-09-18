@@ -1,6 +1,5 @@
 # W-O
-W&amp;O tabletop RPG
-Jugadores: Hasta 5
+W&amp;O tabletop RPG hasta 5 jugadores
 
 ![Historia](0001.jpg)
 
